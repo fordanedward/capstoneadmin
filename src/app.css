@@ -1,0 +1,7 @@
+@import 'tailwindcss/base';       /* Core Tailwind CSS reset */
+@import 'tailwindcss/components'; /* Predefined Tailwind components */
+@import 'tailwindcss/utilities';  /* Utility classes */
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
